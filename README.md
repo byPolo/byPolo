@@ -30,7 +30,7 @@ I am Computer Science student at TU Dresden diving into the world of Data Scienc
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color:white; padding:5px; border-radius:8px;"/>
   </a>
-  <a href="[https://www.w3.org/html/](https://html.spec.whatwg.org/multipage/)" target="_blank" rel="noreferrer">
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
