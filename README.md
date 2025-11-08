@@ -2,7 +2,7 @@
 ### I am an aspiring Data Scientist
 
 ### About me:
-I am Computer Science student at TU Dresden diving into the world of Data Science and Machine Learning. I enjoy working with Python, exploring data, and learning how to build smart models that make sense of it all. I’m always trying to pick up new skills, experiment with ideas, and grow as a developer.
+I am Computer Science student at TU Dresden diving into the world of Data Science and Machine Learning. I enjoy working with Python, exploring data, and learning how to build smart models that make sense of it all. I’m always trying to pick up new skills, experiment with ideas, and grow as a developer. Projects coming soon...
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
