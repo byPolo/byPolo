@@ -16,7 +16,6 @@ I'm a Computer Science student at **TU Dresden** diving into the world of **Data
 
 ### 🌱 Currently learning
 - Deep Learning & Neural Networks
-- Advanced Data Visualization
 
 ### 📫 How to reach me
 - www.linkedin.com/in/marco-hernandez-de-leon
