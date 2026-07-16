@@ -7,5 +7,5 @@ DS certification), currently going deep on generative AI — LLMs,
 retrieval, and evals. Repos here are coursework and experiments 
 while I build toward that.
 
-📫 [LinkedIn](www.linkedin.com/in/marco-hernandez-de-leon)
+📫 [LinkedIn]([www.linkedin.com/in/marco-hernandez-de-leon](https://www.linkedin.com/in/marco-hernandez-de-leon/))
 
